@@ -17,6 +17,14 @@ var MicroJS = [
     source: "https://raw.github.com/madrobby/bitarray.js/master/bitarray.js"
   },
   {
+    name: "jMicro",
+    github: "AndCake/jMicro",
+    tags: ["dom", "ajax", "events", "css"],
+    description: "General purpose mini framework for DOM manipulation, events, AJAX and styling with similar syntax to PrototypeJS",
+    url: "https://github.com/AndCake/jMicro",
+    source: "https://raw.github.com/AndCake/jMicro/master/jmicro.js"
+  },
+  {
     name: "Qatrix",
     github: "/qatrix/Qatrix",
     tags: ["framework"],
